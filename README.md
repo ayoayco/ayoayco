@@ -3,10 +3,13 @@
 <table id="nav">
   <tr>
     <td>
-      <a target="_blank" href="https://ayco.io">ayco.io</a>
+      <a target="_blank" href="https://ayco.io">Profile</a>
     </td>
     <td>
-      <a target="_blank" href="https://blog.ayco.io">Ayos Blog</a>
+      <a target="_blank" href="https://blog.ayco.io">Blog</a>
+    </td>
+    <td>
+      <a target="_blank" href="https://soundcloud.com/ayoayco">Music</a>
     </td>
     <td>
       <a target="_blank" href="https://www.linkedin.com/in/ayoayco/">LinkedIn</a>
@@ -17,17 +20,11 @@
     <td>
       <a target="_blank" href="https://gist.github.com/ayoayco">Gists</a>
     </td>
-    <td>
-      <a target="_blank" href="https://soundcloud.com/ayoayco">Music</a>
-    </td>
     <!--td>
       <a target="_blank" href="https://mnswpr.com/">mnswpr</a>
     </td-->
   </tr>
 </table>
-
-
-![Ayo Ayco](https://media-exp1.licdn.com/dms/image/C4E16AQGgICAR1p6QVg/profile-displaybackgroundimage-shrink_350_1400/0/1631025029752?e=1640822400&v=beta&t=kmFsOiATJ0CZCOnFvKCfemHYABnfqYk7sDKNT47pEXA)
 
 # Hi, I'm Ayo! 🙋‍♂️
 
@@ -57,6 +54,9 @@
 > Now he works on ERP software created for the Cloud.
 -----
 
+![Ayo Ayco](https://media-exp1.licdn.com/dms/image/C4E16AQGgICAR1p6QVg/profile-displaybackgroundimage-shrink_350_1400/0/1631025029752?e=1640822400&v=beta&t=kmFsOiATJ0CZCOnFvKCfemHYABnfqYk7sDKNT47pEXA)
+
+-----
 <!--
 **ayoayco/ayoayco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
