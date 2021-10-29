@@ -16,6 +16,7 @@
 ✔ Boosted delivery of features, identified workflow bottlenecks, and streamlined development pipelines;
 
 ##### Some links
+- My [website](https://ayco.io)
 - My [blog](https://blog.ayco.io)
 - My [music](https://soundcloud.com/ayoayco)
 - My [Twitter](https://twitter.com/ayoayco)
