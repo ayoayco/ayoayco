@@ -33,9 +33,9 @@
 
 ✔ More than four years experience with Remote Work;
 
-🏆 Global Innovation Winner for the Hack for Good with Angular and NativeScript 2019 🎉 [Angular announcement](https://blog.angular.io/hack-for-good-6b500f1946a3#36f0)
+🏆 Global Innovation Winner for the Hack for Good with Angular and NativeScript 2019 🎉 [Angular announcement](https://blog.angular.io/hack-for-good-6b500f1946a3#36f0);
 
-🏆 Innovation Award, HIRAYA, Infor Sinagtala Awards 2018
+🏆 Innovation Award, HIRAYA, Infor Sinagtala Awards 2018;
 
 -----
 
