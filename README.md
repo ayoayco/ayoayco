@@ -18,6 +18,9 @@
     <td>
       <a target="_blank" href="https://soundcloud.com/ayoayco">Music</a>
     </td>
+    <td>
+      <a target="_blank" href="https://mnswpr.com/">mnswpr</a>
+    </td>
   </tr>
 </table>
 
