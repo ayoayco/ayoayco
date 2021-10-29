@@ -1,8 +1,8 @@
 | | | | | |
 | --- | --- | --- |--- | --- |
-| 🌐 [Website](https://ayco.io) | 📰 [Blog](https://blog.ayco.io) | 🎶 [Music](https://soundcloud.com/ayoayco) | 🐤 [Twitter](https://twitter.com/ayoayco) | 👨‍💻 [Gists](https://gist.github.com/ayoayco) |
+| [Profile](https://ayco.io) | [Blog](https://blog.ayco.io) | [Music](https://soundcloud.com/ayoayco) | [Twitter](https://twitter.com/ayoayco) | [Gists](https://gist.github.com/ayoayco) |
 
-## AYO AYCO
+# Hi, I'm AYO! 👋
 
 🏆 Global Innovation Winner for the Hack for Good with Angular and NativeScript 2019
 - See the announcement in the 👉 [Angular blog](https://blog.angular.io/hack-for-good-6b500f1946a3#36f0)
@@ -18,8 +18,6 @@
 ✔ More than three years experience with Remote Work;
 
 ✔ Boosted delivery of features, identified workflow bottlenecks, and streamlined development pipelines;
-
------
 
 <!--
 **ayoayco/ayoayco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
