@@ -37,7 +37,7 @@
 
 🏆 Innovation Award, HIRAYA, Infor Sinagtala Awards 2018;
 
-### My projects mentioned in The Philippines News:
+### My Projects in The Philippines News:
 
 📰 [Project NOAH launches WebSAFE](https://news.abs-cbn.com/nation/12/11/15/project-noah-launches-websafe)
 
