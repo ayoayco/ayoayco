@@ -1,22 +1,22 @@
 <table id="nav">
   <tr>
     <td>
-      <a href="https://ayco.io">Profile</a>
+      <a target="_blank" href="https://ayco.io">Profile</a>
     </td>
     <td>
-      <a href="https://blog.ayco.io">Blog</a>
+      <a target="_blank" href="https://blog.ayco.io">Blog</a>
     </td>
     <td>
-      <a href="https://www.linkedin.com/in/ayoayco/">LinkedIn</a>
+      <a target="_blank" href="https://www.linkedin.com/in/ayoayco/">LinkedIn</a>
     </td>
     <td>
-      <a href="https://twitter.com/ayoayco">Twitter</a>
+      <a target="_blank" href="https://twitter.com/ayoayco">Twitter</a>
     </td>
     <td>
-      <a href="https://gist.github.com/ayoayco">Gists</a>
+      <a target="_blank" href="https://gist.github.com/ayoayco">Gists</a>
     </td>
     <td>
-      <a href="https://soundcloud.com/ayoayco">Music</a>
+      <a target="_blank" href="https://soundcloud.com/ayoayco">Music</a>
     </td>
   </tr>
 </table>
