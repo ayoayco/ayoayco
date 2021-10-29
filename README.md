@@ -1,12 +1,31 @@
-| | | | | |
-| --- | --- | --- |--- | --- |
-| [Profile](https://ayco.io) | [Blog](https://blog.ayco.io) | [Music](https://soundcloud.com/ayoayco) | [Twitter](https://twitter.com/ayoayco) | [Gists](https://gist.github.com/ayoayco) |
+<table>
+  <tr>
+    <td>
+      <a href="https://ayco.io">Profile</a>
+    </td>
+    <td>
+      <a href="https://blog.ayco.io">Blog</a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/ayoayco/">LinkedIn</a>
+    </td>
+    <td>
+      <a href="https://twitter.com/ayoayco">Twitter</a>
+    </td>
+    <td>
+      <a href="https://gist.github.com/ayoayco">Gists</a>
+    </td>
+    <td>
+      <a href="https://soundcloud.com/ayoayco">Music</a>
+    </td>
+  </tr>
+</table>
 
 # Hi, I'm AYO! 👋
 
-✔ Over NINE years of professional experience in developing information systems for private businesses and government-funded projects;
+✔ Over *NINE years* of professional experience developing information systems for private businesses and government-funded projects;
 
-✔ Excellent communication skills, independent and self-motivated;
+✔ Excellent written and spoken communication skills, independent and self-motivated;
 
 ✔ Oversaw planning, development, and maintenance of web applications in varying team sizes, using different technologies;
 
