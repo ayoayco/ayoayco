@@ -1,10 +1,10 @@
 <table id="nav">
   <tr>
     <td>
-      <a target="_blank" href="https://ayco.io">Profile</a>
+      <a target="_blank" href="https://ayco.io">ayco.io</a>
     </td>
     <td>
-      <a target="_blank" href="https://blog.ayco.io">Blog</a>
+      <a target="_blank" href="https://blog.ayco.io">Ayos Blog</a>
     </td>
     <td>
       <a target="_blank" href="https://www.linkedin.com/in/ayoayco/">LinkedIn</a>
