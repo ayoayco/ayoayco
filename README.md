@@ -29,7 +29,7 @@
 
 ✔ Oversaw planning, development, and maintenance of web applications in varying team sizes, using different technologies;
 
-✔ More than three years experience with Remote Work;
+✔ More than four years experience with Remote Work;
 
 🏆 Global Innovation Winner for the Hack for Good with Angular and NativeScript 2019 🎉 [Angular announcement](https://blog.angular.io/hack-for-good-6b500f1946a3#36f0)
 
