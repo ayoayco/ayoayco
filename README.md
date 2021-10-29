@@ -1,3 +1,5 @@
+-----
+
 <table id="nav">
   <tr>
     <td>
@@ -24,6 +26,7 @@
   </tr>
 </table>
 
+
 ![Ayo Ayco](https://media-exp1.licdn.com/dms/image/C4E16AQGgICAR1p6QVg/profile-displaybackgroundimage-shrink_350_1400/0/1631025029752?e=1640822400&v=beta&t=kmFsOiATJ0CZCOnFvKCfemHYABnfqYk7sDKNT47pEXA)
 
 # Hey there, I'm AYO! 🙋‍♂️
@@ -47,13 +50,11 @@
 📰 [Project NOAH identifies landslide-prone provinces](https://www.youtube.com/watch?v=LKrV6vtGZEA&ab_channel=ABS-CBNNews)
 
 -----
-
 > He has contributed software development expertise to UPLB, DOST, Infor, and various government-funded projects such as University of the Philippines’ National Operational Assessment of Hazards and Ateneo’s Cloud-Based Intelligent Total Analysis System.
 >
 > He is a passionate learner and is quite fond of explaining how things work.
 > 
 > Now he works on ERP software created for the Cloud.
-
 -----
 
 <!--
