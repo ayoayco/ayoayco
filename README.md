@@ -23,7 +23,7 @@
 
 # Hi, I'm AYO! 👋
 
-✔ Over *NINE years* of professional experience developing information systems for private businesses and government-funded projects;
+✔ Over *NINE years* of developing information systems for private businesses and government-funded projects;
 
 ✔ Excellent written and spoken communication skills, independent and self-motivated;
 
