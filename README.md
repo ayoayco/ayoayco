@@ -37,6 +37,12 @@
 
 🏆 Innovation Award, HIRAYA, Infor Sinagtala Awards 2018;
 
+### My projects mentioned in The Philippines News:
+
+📰 [Project NOAH launches WebSAFE](https://news.abs-cbn.com/nation/12/11/15/project-noah-launches-websafe)
+
+📰 [Project NOAH identifies landslide-prone provinces](https://www.youtube.com/watch?v=LKrV6vtGZEA&ab_channel=ABS-CBNNews)
+
 -----
 
 > He has contributed software development expertise to UPLB, DOST, Infor, and various government-funded projects such as University of the Philippines’ National Operational Assessment of Hazards and Ateneo’s Cloud-Based Intelligent Total Analysis System.
