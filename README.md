@@ -26,7 +26,7 @@
 
 # Hi, I'm Ayo! 🙋‍♂️
 
-✔ Over *NINE years* of developing information systems for private businesses and government-funded projects;
+✔ Over *TEN years* of developing information systems for private businesses and government-funded projects;
 
 ✔ Excellent written and spoken communication skills, independent and self-motivated;
 
