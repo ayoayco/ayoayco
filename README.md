@@ -52,7 +52,7 @@
 > Now he works on ERP software created for the Cloud.
 -----
 
-![Ayo Ayco](https://media-exp1.licdn.com/dms/image/C4E16AQGgICAR1p6QVg/profile-displaybackgroundimage-shrink_350_1400/0/1631025029752?e=1640822400&v=beta&t=kmFsOiATJ0CZCOnFvKCfemHYABnfqYk7sDKNT47pEXA)
+![Ayo Ayco](https://user-images.githubusercontent.com/4262489/147297991-886e2ed6-21f8-496d-9add-2856a10bcfb7.png)
 
 <!--
 **ayoayco/ayoayco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
