@@ -1,7 +1,7 @@
 <table id="nav">
   <tr>
     <td>
-      <a target="_blank" href="https://ayco.io">Website</a>
+      <a target="_blank" href="https://ayco.io">Web</a>
     </td>
     <td>
       <a target="_blank" href="https://blog.ayco.io">Blog</a>
