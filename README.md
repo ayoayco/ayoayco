@@ -1,4 +1,4 @@
-<table id="nav">
+<table id="nav" style="font-size: x-small">
   <tr>
     <td>
       <a target="_blank" href="https://ayco.io">Web</a>
