@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 
 🏆 Innovation Award, HIRAYA, Infor Sinagtala Awards 2018;
 
+🔭 I’m currently busy being a [frontend developer consultant in The Netherlands](https://www.linkedin.com/in/ayoayco/)
+
 ### In The News:
 
 📰 [Project NOAH launches WebSAFE](https://news.abs-cbn.com/nation/12/11/15/project-noah-launches-websafe)
