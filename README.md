@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 
 -->
 
-[![Web](https://img.shields.io/badge/Web-ayco.io-002FB3.svg)](https://ayco.io)
-[![MNSWPR](https://img.shields.io/badge/Play-Minesweeper-ff8a00.svg)](https://mnswpr.com)
-[![Blog](https://img.shields.io/badge/Read-My%20Blog-8dbf42.svg)](https://blog.ayco.io)
-[![Music](https://img.shields.io/badge/Listen-My%20Music-f50.svg)](https://soundcloud.com/ayoayco)
+[![Email](https://img.shields.io/badge/Contact-Email-BB001B.svg)](mailto:ramon.aycojr@pm.me)
+[![Website](https://img.shields.io/badge/Website-ayco.io-002FB3.svg)](https://ayco.io)
 [![LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-0072b1.svg)](https://www.linkedin.com/in/ayoayco/)
 [![Twitter](https://img.shields.io/badge/Follow-Twitter-00acee.svg)](https://twitter.com/ayoayco)
+[![MNSWPR](https://img.shields.io/badge/Play-Minesweeper-ff8a00.svg)](https://mnswpr.com)
+[![Music](https://img.shields.io/badge/Listen-Sound%20Cloud-f50.svg)](https://soundcloud.com/ayoayco)
+[![Blog](https://img.shields.io/badge/Read-My%20Blog-8dbf42.svg)](https://blog.ayco.io)
 
 # Hi, I'm Ayo! 🙋‍♂️
 
@@ -37,7 +38,7 @@ Here are some ideas to get you started:
 
 🏆 Innovation Award, HIRAYA, Infor Sinagtala Awards 2018;
 
-🔭 I’m currently busy being a [frontend developer consultant in The Netherlands](https://www.linkedin.com/in/ayoayco/)
+🔭 I’m currently busy being a [frontend dev consultant in The Netherlands](https://www.linkedin.com/in/ayoayco/)
 
 ### In The News:
 
