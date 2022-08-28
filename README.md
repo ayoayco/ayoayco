@@ -1,4 +1,4 @@
-<table id="nav" style="font-size: x-small">
+<!--table id="nav" style="font-size: x-small">
   <tr>
     <td>
       <a target="_blank" href="https://ayco.io">Web</a>
@@ -22,7 +22,15 @@
       <a target="_blank" href="https://mnswpr.com/">mnswpr</a>
     </td-->
   </tr>
-</table>
+</table-->
+
+
+[![Web](https://img.shields.io/badge/Web-ayco.io-002FB3.svg)](https://ayco.io)
+[![MNSWPR](https://img.shields.io/badge/Play-Minesweeper-ff8a00.svg)](https://mnswpr.com)
+[![Blog](https://img.shields.io/badge/Read-My%20Blog-8dbf42.svg)](https://blog.ayco.io)
+[![Music](https://img.shields.io/badge/Listen-My%20Music-f50.svg)](https://soundcloud.com/ayoayco)
+[![LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-0072b1.svg)](https://www.linkedin.com/in/ayoayco/)
+[![Twitter](https://img.shields.io/badge/Follow-Twitter-00acee.svg)](https://twitter.com/ayoayco)
 
 # Hi, I'm Ayo! 🙋‍♂️
 
