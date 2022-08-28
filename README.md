@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 -->
 
-[![Email](https://img.shields.io/badge/Contact-Email-BB001B.svg)](mailto:ramon.aycojr@pm.me)
 [![Website](https://img.shields.io/badge/Website-ayco.io-002FB3.svg)](https://ayco.io)
 [![LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-0072b1.svg)](https://www.linkedin.com/in/ayoayco/)
 [![Twitter](https://img.shields.io/badge/Follow-Twitter-00acee.svg)](https://twitter.com/ayoayco)
