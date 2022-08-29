@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 🔭 Currently busy being a [frontend dev consultant in The Netherlands](https://www.linkedin.com/in/ayoayco/)
 
-🌱 Works on high-impact projects for sustainability, remote sensing & disaster mitigation
+🌱 Works on high-impact projects for sustainability, food security, remote sensing, & disaster mitigation
 
 👯 Finds it fun collaborating/maintaining opensource projects, especially ones related to games
 
