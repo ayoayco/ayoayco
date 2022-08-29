@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently busy being a [frontend dev consultant in The Netherlands](https://www.linkedin.com/in/ayoayco/)
 
-👯 I’m looking to collaborate on opensource projects related to browser games components
+👯 In my spare time, I find it fun and engaging to collaborate on opensource projects (especially related to browser games components)
 
 🏆 Global [Innovation Winner](https://blog.angular.io/hack-for-good-6b500f1946a3#36f0) for the Hack for Good with Angular and NativeScript 2019;
 
@@ -48,6 +48,4 @@ Here are some ideas to get you started:
 -----
 
 [![Ayo Ayco](https://user-images.githubusercontent.com/4262489/147297991-886e2ed6-21f8-496d-9add-2856a10bcfb7.png)](https://ayco.io)
-
-
 
