@@ -25,21 +25,15 @@ Here are some ideas to get you started:
 
 # Hi, I'm Ayo! 🙋‍♂️
 
-✔ Over *TEN years* of developing information systems for private businesses and government-funded projects;
+🔭 I’m currently busy being a [frontend dev consultant in The Netherlands](https://www.linkedin.com/in/ayoayco/)
 
-✔ Excellent written and spoken communication skills, independent and self-motivated;
-
-✔ Oversaw planning, development, and maintenance of web applications in varying team sizes, using different technologies;
-
-✔ More than four years experience with Remote Work;
+👯 I’m looking to collaborate on opensource projects related to browser games components
 
 🏆 Global [Innovation Winner](https://blog.angular.io/hack-for-good-6b500f1946a3#36f0) for the Hack for Good with Angular and NativeScript 2019;
 
 🏆 Innovation Award, HIRAYA, Infor Sinagtala Awards 2018;
 
-🔭 I’m currently busy being a [frontend dev consultant in The Netherlands](https://www.linkedin.com/in/ayoayco/)
-
-### In The News:
+### Past Projects Mentioned In The News:
 
 📰 [Project NOAH launches WebSAFE](https://news.abs-cbn.com/nation/12/11/15/project-noah-launches-websafe)
 
