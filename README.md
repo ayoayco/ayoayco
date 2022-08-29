@@ -25,15 +25,17 @@ Here are some ideas to get you started:
 
 # Hi, I'm Ayo! 🙋‍♂️
 
-🔭 I’m currently busy being a [frontend dev consultant in The Netherlands](https://www.linkedin.com/in/ayoayco/)
+🔭 Currently busy being a [frontend dev consultant in The Netherlands](https://www.linkedin.com/in/ayoayco/)
 
-👯 In my spare time, I find it fun and engaging to collaborate on opensource projects (especially related to browser games components)
+👯 I find it fun collaborating on opensource projects, especially ones related to games
+
+🌱 Past high-impact projects for sustainability, remote sensing & disaster mitigation
 
 🏆 Global [Innovation Winner](https://blog.angular.io/hack-for-good-6b500f1946a3#36f0) for the Hack for Good with Angular and NativeScript 2019;
 
 🏆 Innovation Award, HIRAYA, Infor Sinagtala Awards 2018;
 
-### Past Projects Mentioned In The News:
+### Projects Mentioned In The News:
 
 📰 [Project NOAH launches WebSAFE](https://news.abs-cbn.com/nation/12/11/15/project-noah-launches-websafe)
 
