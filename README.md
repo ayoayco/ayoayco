@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 [![Website](https://img.shields.io/badge/Website-ayco.io-002FB3.svg)](https://ayco.io)
-[![Blog](https://img.shields.io/badge/Read-Productivity%20Blog-8dbf42.svg)](https://blog.ayco.io)
+[![Blog](https://img.shields.io/badge/Read-Blog-8dbf42.svg)](https://blog.ayco.io)
 [![MNSWPR](https://img.shields.io/badge/Play-Minesweeper-ff8a00.svg)](https://mnswpr.com)
 [![Music](https://img.shields.io/badge/Listen-Sound%20Cloud-f50.svg)](https://soundcloud.com/ayoayco)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0072b1.svg)](https://www.linkedin.com/in/ayoayco/)
@@ -27,9 +27,10 @@ Here are some ideas to get you started:
 
 🔭 Currently busy being a [frontend dev consultant in The Netherlands](https://www.linkedin.com/in/ayoayco/)
 
-👯 I find it fun collaborating on opensource projects, especially ones related to games
+🌱 Works on high-impact projects for sustainability, remote sensing & disaster mitigation
 
-🌱 Past high-impact projects for sustainability, remote sensing & disaster mitigation
+👯 Finds it fun collaborating/maintaining opensource projects, especially ones related to games
+
 
 🏆 Global [Innovation Winner](https://blog.angular.io/hack-for-good-6b500f1946a3#36f0) for the Hack for Good with Angular and NativeScript 2019;
 
