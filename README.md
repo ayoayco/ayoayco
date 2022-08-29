@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Ayo! 🙋‍♂️
 
-💪 Currently busy being a [frontend dev consultant in The Netherlands](https://www.linkedin.com/in/ayoayco/)
+💪 Currently busy being a [consultant in The Netherlands](https://www.linkedin.com/in/ayoayco/)
 
 🌱 Works on high-impact projects utilizing web tech, IOT, data viz/insights, remote sensing, & GIS 
 
