@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 🌱 Works on high-impact projects utilizing web tech, IOT, data viz/insights, remote sensing, & GIS 
 
-🔥 Passions are sustainability, food security, & disaster mitigationa and management
+🔥 Passions are sustainability, food security, & disaster mitigation and management
 
 👯 Finds it fun collaborating/maintaining opensource projects, especially ones related to games
 
