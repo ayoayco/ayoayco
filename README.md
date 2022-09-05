@@ -52,5 +52,4 @@ Here are some ideas to get you started:
 > Now he works on ERP software created for the Cloud.
 -----
 
-[![Ayo Ayco](assets/cover-with-action.png)](https://ayco.io)
-
+[![COVER](assets/cover-with-action.png)](https://ayco.io)
