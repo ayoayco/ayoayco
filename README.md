@@ -27,12 +27,11 @@ Here are some ideas to get you started:
 
 💪 Currently busy being a [Frontend dev consultant in The Netherlands](https://www.linkedin.com/in/ayoayco/)
 
-🌱 Works on high-impact projects utilizing web tech, IOT, data viz/insights, remote sensing, & GIS 
+🌱 Works on high-impact projects utilizing web technologies, IoT, data viz/insights, remote sensing, & GIS 
 
 🔥 Passions are sustainability, food security, & disaster mitigation and management
 
 👯 Finds it fun collaborating/maintaining opensource projects, especially ones related to games
-
 
 🏆 Global [Innovation Winner](https://blog.angular.io/hack-for-good-6b500f1946a3#36f0) for the Hack for Good with Angular and NativeScript 2019;
 
