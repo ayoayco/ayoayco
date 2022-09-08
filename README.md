@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 🔥 Passions are sustainability, food security, & disaster mitigation and management
 
-👯 Finds it fun collaborating/maintaining opensource projects, especially ones related to games
+👯 Finds it fun collaborating/maintaining opensource projects
 
 🏆 Global [Innovation Winner](https://blog.angular.io/hack-for-good-6b500f1946a3#36f0) for the Hack for Good with Angular and NativeScript 2019;
 
