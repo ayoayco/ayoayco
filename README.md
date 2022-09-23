@@ -11,11 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
 -->
-
-[![COVER](assets/cover-with-action.png)](https://ayco.io)
 
 [![Website](https://img.shields.io/badge/Website-ayco.io-002FB3.svg)](https://ayco.io)
 [![Blog](https://img.shields.io/badge/Read-Blog-8dbf42.svg)](https://blog.ayco.io)
@@ -47,11 +43,13 @@ Here are some ideas to get you started:
 | | |
 | --- | --- |
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoayco&show_icons=true) | ![simpson](https://media2.giphy.com/media/4pMX5rJ4PYAEM/giphy.gif?cid=790b7611ec3de2902571a0602b1853fb93000b3efa5619f9&rid=giphy.gif&ct=g) |
------
+
+<!--
 >  He has contributed software development expertise to UPLB, DOST, Infor, and various government-funded projects such as University of the Philippines’ National Operational Assessment of Hazards and Ateneo’s Cloud-Based Intelligent Total Analysis System.
 >
 > He is a passionate learner and is quite fond of explaining how things work.
 > 
 > Now he works on ERP software created for the Cloud.
------
+-->
 
+[![COVER](assets/cover-with-action.png)](https://ayco.io)
