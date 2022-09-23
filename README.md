@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 -->
 
+[![COVER](assets/cover-with-action.png)](https://ayco.io)
+
 [![Website](https://img.shields.io/badge/Website-ayco.io-002FB3.svg)](https://ayco.io)
 [![Blog](https://img.shields.io/badge/Read-Blog-8dbf42.svg)](https://blog.ayco.io)
 [![MNSWPR](https://img.shields.io/badge/Play-Minesweeper-ff8a00.svg)](https://mnswpr.com)
@@ -52,5 +54,4 @@ Here are some ideas to get you started:
 > 
 > Now he works on ERP software created for the Cloud.
 -----
-[![COVER](assets/cover-with-action.png)](https://ayco.io)
 
