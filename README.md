@@ -40,11 +40,12 @@ Here are some ideas to get you started:
 
 📰 [Project NOAH identifies landslide-prone provinces](https://www.youtube.com/watch?v=LKrV6vtGZEA&ab_channel=ABS-CBNNews)
 
-| | |
-| --- | --- |
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoayco&show_icons=true) | ![simpson](https://media2.giphy.com/media/4pMX5rJ4PYAEM/giphy.gif?cid=790b7611ec3de2902571a0602b1853fb93000b3efa5619f9&rid=giphy.gif&ct=g) |
 
 <!--
+
+| <a href="https://github.com/ayoayco/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoayco&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ayo Ayco's github stats" /></a> | <a href="https://github.com/ayoayco"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoayco&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 >  He has contributed software development expertise to UPLB, DOST, Infor, and various government-funded projects such as University of the Philippines’ National Operational Assessment of Hazards and Ateneo’s Cloud-Based Intelligent Total Analysis System.
 >
 > He is a passionate learner and is quite fond of explaining how things work.
