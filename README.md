@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0072b1.svg)](https://www.linkedin.com/in/ayoayco/)
 [![Twitter](https://img.shields.io/badge/Follow-Twitter-00acee.svg)](https://twitter.com/ayoayco)
 
-💪 Currently busy being a [Frontend dev consultant in The Netherlands](https://www.linkedin.com/in/ayoayco/)
+💪 Frontend dev consultant in The Netherlands
 
 <!---
 # Hi, I'm Ayo! 🙋‍♂️
