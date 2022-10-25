@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 -->
 
 [![Website](https://img.shields.io/badge/Website-ayco.io-002FB3.svg)](https://ayco.io)
-[![MNSWPR](https://img.shields.io/badge/Play-Minesweeper-ff8a00.svg)](https://mnswpr.com)
-[![Music](https://img.shields.io/badge/Listen-Sound%20Cloud-f50.svg)](https://soundcloud.com/ayoayco)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0072b1.svg)](https://www.linkedin.com/in/ayoayco/)
 [![Twitter](https://img.shields.io/badge/Follow-Twitter-00acee.svg)](https://twitter.com/ayoayco)
+[![MNSWPR](https://img.shields.io/badge/Play-Minesweeper-ff8a00.svg)](https://mnswpr.com)
+[![Music](https://img.shields.io/badge/Listen-Sound%20Cloud-f50.svg)](https://soundcloud.com/ayoayco)
 
+<!---
 # Hi, I'm Ayo! 🙋‍♂️
 
 💪 Currently busy being a [Frontend dev consultant in The Netherlands](https://www.linkedin.com/in/ayoayco/)
