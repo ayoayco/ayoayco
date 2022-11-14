@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 -->
 
-[![Website](https://img.shields.io/badge/Visit%20website-ayco.io-002FB3.svg)](https://ayco.io)
+[![Website](https://img.shields.io/badge/Website-ayco.io-002FB3.svg)](https://ayco.io)
 [![Twitter](https://img.shields.io/badge/Twitter-@ayoayco-00acee.svg?logo=twitter)](https://twitter.com/ayoayco)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayoayco-0072b1.svg?logo=linkedin)](https://www.linkedin.com/in/ayoayco/)
 <a rel="me" href="https://fosstodon.org/@ayo">
