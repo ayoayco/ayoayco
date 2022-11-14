@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 -->
 
 [![Website](https://img.shields.io/badge/Visit%20website-ayco.io-002FB3.svg)](https://ayco.io)
-[![Twitter](https://img.shields.io/badge/Follow-Twitter-00acee.svg?logo=twitter)](https://twitter.com/ayoayco)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0072b1.svg?logo=linkedin)](https://www.linkedin.com/in/ayoayco/)
+[![Twitter](https://img.shields.io/badge/Twitter-@ayoayco-00acee.svg?logo=twitter)](https://twitter.com/ayoayco)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayoayco-0072b1.svg?logo=linkedin)](https://www.linkedin.com/in/ayoayco/)
 <a rel="me" href="https://fosstodon.org/@ayo">
-    <img src="https://img.shields.io/badge/Follow-Mastodon-purple.svg?logo=Mastodon" />
+    <img src="https://img.shields.io/badge/Fediverse-@ayo@fosstodon.org-purple.svg?logo=Mastodon" />
 </a>
 
 # Hi, I'm Ayo! 🙋‍♂️
@@ -44,6 +44,9 @@ Here are some ideas to get you started:
 - 📰 [Project NOAH launches WebSAFE](https://news.abs-cbn.com/nation/12/11/15/project-noah-launches-websafe)
 
 - 📰 [Project NOAH identifies landslide-prone provinces](https://www.youtube.com/watch?v=LKrV6vtGZEA&ab_channel=ABS-CBNNews)
+
+
+<a style="display:none" rel="me" href="https://fosstodon.org/@ayo">Mastodon</a>
 
 <!--
 
