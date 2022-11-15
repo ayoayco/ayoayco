@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 
 🏆 Innovation Award, HIRAYA, Infor Sinagtala Awards 2018;
 
-🎉 Find me on <a rel="me" href="https://fosstodon.org/@ayo">Mastodon</a>
-
 ### Projects Mentioned In The News:
 
 - 📰 [Project NOAH launches WebSAFE](https://news.abs-cbn.com/nation/12/11/15/project-noah-launches-websafe)
