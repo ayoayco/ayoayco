@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 -->
 
+[![Website](https://img.shields.io/badge/Website-ayco.io-002FB3.svg)](https://ayco.io)
 <a rel="me" href="https://fosstodon.org/@ayo">
     <img src="https://img.shields.io/badge/Fediverse-@ayo@fosstodon.org-purple.svg?logo=Mastodon" />
 </a> 
-[![Website](https://img.shields.io/badge/Website-ayco.io-002FB3.svg)](https://ayco.io)
 [![Twitter](https://img.shields.io/badge/Twitter-@ayoayco-00acee.svg?logo=twitter)](https://twitter.com/ayoayco)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayoayco-0072b1.svg?logo=linkedin)](https://www.linkedin.com/in/ayoayco/)
 
