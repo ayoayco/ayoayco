@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Ayo! 🙋‍♂️
 
-🕵🏻‍♂️ Frontend dev consultant in The Netherlands
+🕵🏻‍♂️ Filipino frontend consultant in Amsterdam
 
 🛠 Building [Astro Reactive](https://astro-reactive.dev)
 
