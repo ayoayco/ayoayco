@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 -->
 
 [![Website](https://img.shields.io/badge/Website-ayco.io-002FB3.svg)](https://ayco.io)
-<a rel="me" href="https://fosstodon.org/@ayo">
-    <img src="https://img.shields.io/badge/Mastodon-@ayo@fosstodon.org-purple.svg?logo=Mastodon" />
+<a rel="me" href="https://social.ayco.io/@ayo">
+    <img src="https://img.shields.io/badge/Fediverse-@ayo@ayco.io-purple.svg?logo=Mastodon" />
 </a> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayoayco-0072b1.svg?logo=linkedin)](https://www.linkedin.com/in/ayoayco/)
 
