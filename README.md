@@ -43,7 +43,6 @@ The following are some previous projects that got mentioned in the news.
 - 📰 [Project NOAH launches WebSAFE](https://news.abs-cbn.com/nation/12/11/15/project-noah-launches-websafe)
   
 # Sponsors
-All my open source efforts across various projects are now backed by the following sponsors. 
 
 <p align="center"> 
 <br />
