@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 [![Website](https://img.shields.io/badge/Website-ayco.io-002FB3.svg)](https://ayco.io)
 <a rel="me" href="https://social.ayco.io/@ayo">
-    <img src="https://img.shields.io/badge/Fediverse-@ayo@ayco.io-purple.svg?logo=Mastodon" />
+    <img src="https://img.shields.io/badge/Microblog-@ayo@ayco.io-purple.svg?logo=mastodon" />
 </a> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayoayco-0072b1.svg?logo=linkedin)](https://www.linkedin.com/in/ayoayco/)
 
@@ -33,21 +33,16 @@ Here are some ideas to get you started:
 
 🛠 Building [Astro Reactive](https://astro-reactive.dev)
 
-
 🏆 Global [Innovation Winner](https://blog.angular.io/hack-for-good-6b500f1946a3#36f0) for the Hack for Good with Angular and NativeScript 2019;
 
 🏆 Innovation Award, HIRAYA, Infor Sinagtala Awards 2018;
 
 ## In The News
-
 The following are some previous projects that got mentioned in the news.
-
-- 📰 [Project NOAH launches WebSAFE](https://news.abs-cbn.com/nation/12/11/15/project-noah-launches-websafe)
-
 - 📰 [Project NOAH identifies landslide-prone provinces](https://www.youtube.com/watch?v=LKrV6vtGZEA&ab_channel=ABS-CBNNews)
+- 📰 [Project NOAH launches WebSAFE](https://news.abs-cbn.com/nation/12/11/15/project-noah-launches-websafe)
   
 # Sponsors
-
 All my open source efforts across various projects are now backed by the following sponsors. Special thanks to [iO Consultancy](https://iodigital.com) for the Spice Program that supports our open source contributions.
 
 <center> 
