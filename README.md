@@ -38,13 +38,23 @@ Here are some ideas to get you started:
 
 🏆 Innovation Award, HIRAYA, Infor Sinagtala Awards 2018;
 
-### Projects Mentioned In The News:
+## In The News
+
+The following are some previous projects that got mentioned in the news.
 
 - 📰 [Project NOAH launches WebSAFE](https://news.abs-cbn.com/nation/12/11/15/project-noah-launches-websafe)
 
 - 📰 [Project NOAH identifies landslide-prone provinces](https://www.youtube.com/watch?v=LKrV6vtGZEA&ab_channel=ABS-CBNNews)
 
+# Sponsors
+### All my open source efforts across various projects are backed by the following sponsors.
 
+
+<center>
+<img src="./assets/logos/iO.jpeg" alt="iO Consultancy Logo" width="100" />
+</center>
+
+Special thanks to [iO Consultancy](https://iodigital.com) for the Spice Program that backs our open source contributions.
 
 <!--
 
