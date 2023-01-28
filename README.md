@@ -43,11 +43,14 @@ The following are some previous projects that got mentioned in the news.
 - 📰 [Project NOAH launches WebSAFE](https://news.abs-cbn.com/nation/12/11/15/project-noah-launches-websafe)
   
 # Sponsors
-All my open source efforts across various projects are now backed by the following sponsors. Special thanks to [iO Consultancy](https://iodigital.com) for the Spice Program that supports our open source contributions.
+All my open source efforts across various projects are now backed by the following sponsors. 
 
-<center> 
-<a href="https://iodigital.com"><img src="./assets/logos/iO.jpeg" alt="iO Consultancy Logo" width="100" /></a>
-</center>
+<p align="center"> 
+<br />
+<a href="https://iodigital.com"><img src="./assets/logos/iO.jpeg" alt="iO Consultancy Logo" width="150" /></a>
+<br />
+Special thanks to <a href="https://iodigital.com">iO Consultancy</a> for the Spice Program that supports our open source contributions.
+</p>
 
 <!--
 
