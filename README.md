@@ -49,7 +49,7 @@ All my open source efforts across various projects are now backed by the followi
 <br />
 <a href="https://iodigital.com"><img src="./assets/logos/iO.jpeg" alt="iO Consultancy Logo" width="150" /></a>
 <br />
-Special thanks to <a href="https://iodigital.com">iO Consultancy</a> for the Spice Program that supports our open source contributions.
+Special thanks to <a href="https://iodigital.com">iO Consultancy</a><br />for the Spice Program that supports<br />our open source contributions.
 </p>
 
 <!--
