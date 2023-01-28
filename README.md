@@ -42,7 +42,7 @@ The following are some previous projects that got mentioned in the news.
 - 📰 [Project NOAH identifies landslide-prone provinces](https://www.youtube.com/watch?v=LKrV6vtGZEA&ab_channel=ABS-CBNNews)
 - 📰 [Project NOAH launches WebSAFE](https://news.abs-cbn.com/nation/12/11/15/project-noah-launches-websafe)
   
-# Sponsors
+## Sponsors
 
 <p align="center"> 
 <br />
