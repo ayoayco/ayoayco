@@ -51,7 +51,7 @@ The following are some previous projects that got mentioned in the news.
 All my open source efforts across various projects are now backed by the following sponsors. Special thanks to [iO Consultancy](https://iodigital.com) for the Spice Program that supports our open source contributions.
 
 <center> 
-<img src="./assets/logos/iO.jpeg" alt="iO Consultancy Logo" width="100" />
+<a href="https://iodigital.com"><img src="./assets/logos/iO.jpeg" alt="iO Consultancy Logo" width="100" /></a>
 </center>
 
 <!--
