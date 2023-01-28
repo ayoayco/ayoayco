@@ -46,16 +46,17 @@ The following are some previous projects that got mentioned in the news.
 
 - 📰 [Project NOAH identifies landslide-prone provinces](https://www.youtube.com/watch?v=LKrV6vtGZEA&ab_channel=ABS-CBNNews)
 
-# Sponsors
-### All my open source efforts across various projects are backed by the following sponsors.
-
-
 <center>
+
+<h1>Sponsors</h1>
+
+<p>All my open source efforts across various projects are backed by the following sponsors.</a>
+
 <img src="./assets/logos/iO.jpeg" alt="iO Consultancy Logo" width="100" />
-</center>
 
 Special thanks to [iO Consultancy](https://iodigital.com) for the Spice Program that backs our open source contributions.
 
+</center>
 <!--
 
 | <a href="https://github.com/ayoayco/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoayco&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ayo Ayco's github stats" /></a> | <a href="https://github.com/ayoayco"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoayco&layout=compact&theme=buefy&hide_border=true" /></a> |
