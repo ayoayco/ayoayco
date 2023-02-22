@@ -21,10 +21,9 @@ Here are some ideas to get you started:
 
 -->
 
-[![Website](https://img.shields.io/badge/Website-ayco.io-002FB3.svg)](https://ayco.io)
-<a rel="me" href="https://social.ayco.io/@ayo">
-    <img src="https://img.shields.io/badge/Mastodon-@ayo@ayco.io-purple.svg?logo=mastodon" />
-</a> 
+[![Website](https://img.shields.io/badge/Website-ayo.ayco.io-002FB3.svg?logo=astro&logoColor=f5f5f5)](https://ayo.ayco.io)
+[![Email](https://img.shields.io/badge/Email-ayo@ayco.io-blue.svg?logo=mail.ru)](mailto:ayo@ayco.io)
+[![Mastodon](https://img.shields.io/badge/Mastodon-@ayo@ayco.io-purple.svg?logo=mastodon&logoColor=f5f5f5)](https://social.ayco.io/@ayo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayoayco-0072b1.svg?logo=linkedin)](https://www.linkedin.com/in/ayoayco/)
 
 # Hi, I'm Ayo! 🙋‍♂️
