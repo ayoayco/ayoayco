@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 🛠 Building [Astro Reactive](https://astro-reactive.dev)
 
+🛠 Contributing to [Elk](https://elk.zone)
+
 🏆 Global [Innovation Winner](https://blog.angular.io/hack-for-good-6b500f1946a3#36f0) for the Hack for Good with Angular and NativeScript 2019;
 
 🏆 Innovation Award, HIRAYA, Infor Sinagtala Awards 2018;
