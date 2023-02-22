@@ -19,12 +19,14 @@ Here are some ideas to get you started:
 🔥 Passions are sustainability, food security, & disaster mitigation and management
 👯 Finds it fun collaborating/maintaining opensource projects
 
+[![Web](https://img.shields.io/badge/Web-ayo.ayco.io-black.svg?logo=astro&logoColor=f5f5f5)](https://ayo.ayco.io)
+[![Mail](https://img.shields.io/badge/Mail-ayo@ayco.io-blue.svg?logo=mail.ru)](mailto:ayo@ayco.io)
+[![Masto](https://img.shields.io/badge/Masto-@ayo@ayco.io-purple.svg?logo=mastodon&logoColor=f5f5f5)](https://social.ayco.io/@ayo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayoayco-0072b1.svg?logo=linkedin)](https://www.linkedin.com/in/ayoayco/)
+
 -->
 
-[![Website](https://img.shields.io/badge/Website-ayo.ayco.io-002FB3.svg?logo=astro&logoColor=f5f5f5)](https://ayo.ayco.io)
-[![Email](https://img.shields.io/badge/Email-ayo@ayco.io-blue.svg?logo=mail.ru)](mailto:ayo@ayco.io)
-[![Mastodon](https://img.shields.io/badge/Mastodon-@ayo@ayco.io-purple.svg?logo=mastodon&logoColor=f5f5f5)](https://social.ayco.io/@ayo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayoayco-0072b1.svg?logo=linkedin)](https://www.linkedin.com/in/ayoayco/)
+<a href="https://social.ayco.io"><img height="12" width="12" src="https://cdn.simpleicons.org/mastodon/f5f5f5" /> @ayo@ayco.io</a>
 
 # Hi, I'm Ayo! 🙋‍♂️
 
