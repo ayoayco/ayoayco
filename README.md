@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 🔥 Passions are sustainability, food security, & disaster mitigation and management
 👯 Finds it fun collaborating/maintaining opensource projects
 
--->
-
 [![Web](https://img.shields.io/badge/Web-ayo.ayco.io-030303.svg)](https://ayo.ayco.io)
 [![Mail](https://img.shields.io/badge/Mail-ayo@ayco.io-4285F4.svg?logo=mail.ru)](mailto:ayo@ayco.io)
 [![Masto](https://img.shields.io/badge/Masto-@ayo@ayco.io-6364ff.svg?logo=mastodon&logoColor=f5f5f5)](https://social.ayco.io/@ayo)
+
+-->
 
 # Hi, I'm Ayo! 🙋‍♂️
 
