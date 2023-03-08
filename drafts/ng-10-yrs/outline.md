@@ -28,3 +28,7 @@ III. Angular: The Good, The Bad, The Lessons
 
 - 
 
+# Recources
+ng conf 2022 talk: https://www.youtube.com/watch?v=IY-QOz4oLCE&ab_channel=ng-conf
+
+

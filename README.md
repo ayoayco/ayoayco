@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Ayo! 🙋‍♂️
 
-🕵🏻‍♂️ Filipino frontend consultant in Amsterdam with [iO](https://iodigital.com)
+🇵🇭 Filipino frontend consultant in Amsterdam with [iO](https://iodigital.com)
 
 🛠 Building [Astro Reactive](https://astro-reactive.dev)
 
@@ -50,6 +50,14 @@ The following are some previous projects that got mentioned in the news.
     <br />
     Special thanks to <a href="https://iodigital.com">iO Consultancy</a><br />for sponsoring my open source contributions
 </p>
+
+
+## Where to find me
+
+- Web: [ayo.ayco.io](https://ayo.ayco.io)
+- Email: <a href="mailto:ayo@ayco.io">ayo@ayco.io</a>
+- Fedi: <a rel="me" href="https://ayco.io/@ayo">@ayo@ayco.io</a>
+- LinkedIn: [ayco.io/linkedin](https://ayco.io/linkedin)
 
 <!--
 
