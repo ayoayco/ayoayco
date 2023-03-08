@@ -56,7 +56,7 @@ The following are some previous projects that got mentioned in the news.
 
 - Web: [ayo.ayco.io](https://ayo.ayco.io)
 - Email: <a href="mailto:ayo@ayco.io">ayo@ayco.io</a>
-- Fedi: <a rel="me" href="https://ayco.io/@ayo">@ayo@ayco.io</a>
+- Fedi: [@ayo@ayco.io](https://ayco.io/@ayo)
 - LinkedIn: [ayco.io/linkedin](https://ayco.io/linkedin)
 
 <!--
