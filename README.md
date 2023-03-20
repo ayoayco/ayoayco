@@ -23,19 +23,21 @@ Here are some ideas to get you started:
 [![Mail](https://img.shields.io/badge/Mail-ayo@ayco.io-4285F4.svg?logo=mail.ru)](mailto:ayo@ayco.io)
 [![Masto](https://img.shields.io/badge/Masto-@ayo@ayco.io-6364ff.svg?logo=mastodon&logoColor=f5f5f5)](https://social.ayco.io/@ayo)
 
+
+
 -->
 
 # Hi, I'm Ayo! 🙋‍♂️
 
 🇵🇭 Filipino frontend consultant in Amsterdam with [iO](https://iodigital.com)
 
-🛠 Building [Astro Reactive](https://astro-reactive.dev)
-
-🛠 Contributing to [Elk](https://elk.zone)
-
 🏆 Global [Innovation Winner](https://blog.angular.io/hack-for-good-6b500f1946a3#36f0) for the Hack for Good with Angular and NativeScript 2019;
 
 🏆 Innovation Award, HIRAYA, Infor Sinagtala Awards 2018;
+
+🛠 Building [Astro Reactive](https://astro-reactive.dev)
+
+🛠 Contributing to [Elk](https://elk.zone)
 
 ## In The News
 The following are some previous projects that got mentioned in the news.
@@ -52,14 +54,15 @@ The following are some previous projects that got mentioned in the news.
 </p>
 
 
+
+<!--
+
 ## Where to find me
 
 - Web: [ayo.ayco.io](https://ayo.ayco.io)
 - Email: <a href="mailto:ayo@ayco.io">ayo@ayco.io</a>
 - Fediverse: [@ayo@ayco.io](https://ayco.io/@ayo)
 - LinkedIn: [ayco.io/linkedin](https://ayco.io/linkedin)
-
-<!--
 
 | <a href="https://github.com/ayoayco/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoayco&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ayo Ayco's github stats" /></a> | <a href="https://github.com/ayoayco"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoayco&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
