@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 🔭 See more on [what I'm currently up to!](https://ayo.ayco.io/now)
 
-## Recognitions and News
+## Recognitions and Features
 The following are some awards and news features for work I did:
 1. 🏆 Global [Innovation Winner](https://blog.angular.io/hack-for-good-6b500f1946a3#36f0) for the Hack for Good with Angular and NativeScript 2019;
 1. 🏆 Innovation Award, HIRAYA, Infor Sinagtala Awards 2018;
