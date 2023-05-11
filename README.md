@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 [![Mail](https://img.shields.io/badge/Mail-ayo@ayco.io-4285F4.svg?logo=mail.ru)](mailto:ayo@ayco.io)
 [![Masto](https://img.shields.io/badge/Masto-@ayo@ayco.io-6364ff.svg?logo=mastodon&logoColor=f5f5f5)](https://social.ayco.io/@ayo)
 
-
-
 -->
 
 # Hi, I'm Ayo! 🙋‍♂️
@@ -34,7 +32,7 @@ Here are some ideas to get you started:
 
 🛠 Exploring possibilities with [Astro components](https://astro-reactive.dev)
 
-👀 See more on [what I'm currently up to!](https://ayo.ayco.io/now)
+🔭 See more on [what I'm currently up to!](https://ayo.ayco.io/now)
 
 ## Recognitions and News
 The following are some awards and news features for work I did:
@@ -44,7 +42,7 @@ The following are some awards and news features for work I did:
 1. 📰 ABS-CBN News (Jun. 30, 2014): [Project NOAH identifies landslide-prone provinces](https://www.youtube.com/watch?v=LKrV6vtGZEA&ab_channel=ABS-CBNNews)
 
 ## Sponsors
-<p align="center"> 
+<p align="center">
     <br />
     <a href="https://iodigital.com"><img src="./assets/logos/iO.jpeg" alt="iO Consultancy Logo" width="150" /></a>
     <br />
