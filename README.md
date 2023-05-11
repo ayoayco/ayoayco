@@ -28,24 +28,22 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Ayo! 🙋‍♂️
-
-🇵🇭 Filipino frontend consultant in Amsterdam with [iO](https://iodigital.com)
-
-🏆 Global [Innovation Winner](https://blog.angular.io/hack-for-good-6b500f1946a3#36f0) for the Hack for Good with Angular and NativeScript 2019;
-
-🏆 Innovation Award, HIRAYA, Infor Sinagtala Awards 2018;
-
-🛠 Building [Astro Reactive](https://astro-reactive.dev)
+🇵🇭 Filipino [frontend consultant](https://iodigital.com) in Amsterdam
 
 🛠 Contributing to [Elk](https://elk.zone)
 
-## In The News
-The following are some previous projects that got mentioned in the news.
-- 📰 [Project NOAH identifies landslide-prone provinces](https://www.youtube.com/watch?v=LKrV6vtGZEA&ab_channel=ABS-CBNNews)
-- 📰 [Project NOAH launches WebSAFE](https://news.abs-cbn.com/nation/12/11/15/project-noah-launches-websafe)
-  
-## Sponsors
+🛠 Exploring possibilities with [Astro components](https://astro-reactive.dev)
 
+👀 See more on [what I'm currently up to!](https://ayo.ayco.io/now)
+
+## Recognitions and News
+The following are some awards and news features for work I did:
+1. 🏆 Global [Innovation Winner](https://blog.angular.io/hack-for-good-6b500f1946a3#36f0) for the Hack for Good with Angular and NativeScript 2019;
+1. 🏆 Innovation Award, HIRAYA, Infor Sinagtala Awards 2018;
+1. 📰 ABS-CBN News (Dec. 11, 2015): [Project NOAH launches WebSAFE](https://news.abs-cbn.com/nation/12/11/15/project-noah-launches-websafe)
+1. 📰 ABS-CBN News (Jun. 30, 2014): [Project NOAH identifies landslide-prone provinces](https://www.youtube.com/watch?v=LKrV6vtGZEA&ab_channel=ABS-CBNNews)
+
+## Sponsors
 <p align="center"> 
     <br />
     <a href="https://iodigital.com"><img src="./assets/logos/iO.jpeg" alt="iO Consultancy Logo" width="150" /></a>
