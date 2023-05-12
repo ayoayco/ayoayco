@@ -36,10 +36,16 @@ Here are some ideas to get you started:
 
 ## Recognitions and Features
 The following are some awards and news features I was involved in:
-1. 🏆 Global [Innovation Winner](https://blog.angular.io/hack-for-good-6b500f1946a3#36f0) for the Hack for Good with Angular and NativeScript 2019;
-1. 🏆 Innovation Award, HIRAYA, Infor Sinagtala Awards 2018;
-1. 📰 ABS-CBN News (Dec. 11, 2015): [Project NOAH launches WebSAFE](https://news.abs-cbn.com/nation/12/11/15/project-noah-launches-websafe)
-1. 📰 ABS-CBN News (Jun. 30, 2014): [Project NOAH identifies landslide-prone provinces](https://www.youtube.com/watch?v=LKrV6vtGZEA&ab_channel=ABS-CBNNews)
+- 📰 Manila Bulletin (Dec. 20, 2021): [Health Impact Hackathon](https://mb.com.ph/2021/10/20/health-impact-hackathon-deep-dives-into-how-to-deliver-crucial-health-information-to-internet-challenged-communities/)
+  - worked on the hackathon platform as a consultant for Impact Hub Manila 
+- 🏆 Global [Innovation Winner](https://blog.angular.io/hack-for-good-6b500f1946a3#36f0) (Oct. 2019) for the Hack for Good with Angular and NativeScript 2019;
+  - came up with the idea and the software architecture, then lead the development
+- 🏆 Innovation Award, HIRAYA, Infor Sinagtala Awards 2018;
+  - was recognized for efforts that streamlined feature delivery and secured a big contract
+- 📰 ABS-CBN News (Dec. 11, 2015): [Project NOAH launches WebSAFE](https://news.abs-cbn.com/nation/12/11/15/project-noah-launches-websafe)
+  - managed the project, lead the developers and researchers, as well as align with stakeholders
+- 📰 ABS-CBN News (Jun. 30, 2014): [Project NOAH identifies landslide-prone provinces](https://www.youtube.com/watch?v=LKrV6vtGZEA&ab_channel=ABS-CBNNews)
+  - came in as a senior frontend engineer, as well as provide support during operations
 
 ## Sponsors
 <p align="center">
