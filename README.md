@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 # Hi, I'm Ayo! 🙋‍♂️
 🇵🇭 Filipino [frontend consultant](https://iodigital.com) in Amsterdam
 
-🛠 Contributing to [Elk](https://github.com/elk-zone/elk#readme)
+🛠 Building a [Cozy Web](https://github.com/ayoayco/cozy#readme)
 
-🛠 Exploring possibilities with [Astro components](https://github.com/astro-reactive/astro-reactive#readme)
+🛠 Exploring [Astro components](https://github.com/astro-reactive/astro-reactive#readme)
 
 🔭 See more on [what I'm currently up to!](https://ayo.ayco.io/now)
 
