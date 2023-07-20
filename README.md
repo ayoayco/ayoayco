@@ -1,38 +1,18 @@
-<!--
-**ayoayco/ayoayco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[ayco.io](https://ayco.io) • [ayos.blog](https://ayos.blog) 
 
-Here are some ideas to get you started:
+## Hi, I'm Ayo!
+I'm an open-source newbie.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Since I started around August 2022, my open-source efforts now include:
+1. [Cozy](https://github.com/ayoayco/cozy) - a privacy-respecting, content-focused app that helps users focus on the information they need by removing nasty distractions from online articles.
+1. [Astro Reactive](https://github.com/astro-reactive/astro-reactive) - trying to see how we can have simpler development patterns for complex use cases. It is a set of dynamic Astro components, but the biggest value created are patterns we discover along the way.
+1. [Astro Resume](https://www.npmjs.com/package/@ayco/astro-resume) - Utilities to send primitive and complex data from the server to the client script with types preserved. This is a direct result of efforts in Astro Reactive
+1. [Elk contributions](https://elk.zone) - Since I started working with the Elk team, I've implemented the following Mastodon APIs to the client application:
+    1. Preview Cards
+    1. Filters API
+    1. Media visibility configurations
 
-[![MNSWPR](https://img.shields.io/badge/Play-Minesweeper-ff8a00.svg)](https://mnswpr.com)
-[![Music](https://img.shields.io/badge/Listen-Sound%20Cloud-f50.svg)](https://soundcloud.com/ayoayco)
-
-🌱 Works on high-impact projects utilizing web technologies, IoT, data viz/insights, remote sensing, & GIS 
-🔥 Passions are sustainability, food security, & disaster mitigation and management
-👯 Finds it fun collaborating/maintaining opensource projects
-
-[![Web](https://img.shields.io/badge/Web-ayo.ayco.io-030303.svg)](https://ayo.ayco.io)
-[![Mail](https://img.shields.io/badge/Mail-ayo@ayco.io-4285F4.svg?logo=mail.ru)](mailto:ayo@ayco.io)
-[![Masto](https://img.shields.io/badge/Masto-@ayo@ayco.io-6364ff.svg?logo=mastodon&logoColor=f5f5f5)](https://social.ayco.io/@ayo)
-
--->
-
-# Hi, I'm Ayo! 🙋‍♂️
-🇵🇭 Filipino [frontend consultant](https://iodigital.com) in Amsterdam
-
-🛠 Building a [Cozy Web](https://github.com/ayoayco/cozy#readme)
-
-🛠 Exploring [Astro components](https://github.com/astro-reactive/astro-reactive#readme)
-
-🔭 See more on [what I'm currently up to!](https://ayo.ayco.io/now)
+[*I would like to do more...*](https://github.com/sponsors/ayoayco)
 
 ## Recognitions and Features
 The following are some awards and news features I was involved in:
