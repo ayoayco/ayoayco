@@ -9,9 +9,9 @@
 I am an open-source newbie.
 
 Since I started around August 2022, my open-source efforts now include:
-1. [Cozy](https://github.com/ayoayco/cozy) - a privacy-respecting, content-focused app that helps users focus on the information they need
-1. [Astro Reactive](https://github.com/astro-reactive/astro-reactive) - trying to see how we can have simpler development patterns for complex use cases. It is a set of dynamic Astro components, but the biggest value created are patterns we discover along the way.
-1. [Astro Resume](https://www.npmjs.com/package/@ayco/astro-resume) - Utilities to send primitive and complex data from the server to the client script with types preserved. This is a direct result of efforts in Astro Reactive
+1. [Cozy](https://github.com/ayoayco/cozy) - privacy-respecting, content-focused app that helps users focus on the information they need
+1. [Astro Reactive](https://github.com/astro-reactive/astro-reactive) - exploration of simpler development patterns for complex use cases
+1. [Astro Resume](https://www.npmjs.com/package/@ayco/astro-resume) - Utilities to send primitive & complex data from the server to the client script with types preserved. This is a direct result of efforts in Astro Reactive
 1. [Elk contributions](https://elk.zone) - Since I started working with the Elk team, I've implemented the following Mastodon APIs to the client application:
     1. Preview Cards
     1. Filters API
