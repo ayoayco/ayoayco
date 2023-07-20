@@ -1,7 +1,12 @@
-[ayco.io](https://ayco.io) • [ayos.blog](https://ayos.blog) 
-
 ## Hi, I'm Ayo!
-I'm an open-source newbie.
+
+- Website: [ayco.io](https://ayco.io)
+- Blog: [ayos.blog](https://ayos.blog)
+- Social: [ayco.io/@ayo](https://ayco.io/@ayo)
+
+## My open-source journey (so far)
+
+I am an open-source newbie.
 
 Since I started around August 2022, my open-source efforts now include:
 1. [Cozy](https://github.com/ayoayco/cozy) - a privacy-respecting, content-focused app that helps users focus on the information they need by removing nasty distractions from online articles.
@@ -12,7 +17,7 @@ Since I started around August 2022, my open-source efforts now include:
     1. Filters API
     1. Media visibility configurations
 
-[*I would like to do more...*](https://github.com/sponsors/ayoayco)
+[*Your support goes a long way for me to do more...*](https://github.com/sponsors/ayoayco)
 
 ## Recognitions and Features
 The following are some awards and news features I was involved in:
