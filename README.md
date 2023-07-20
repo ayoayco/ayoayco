@@ -1,4 +1,4 @@
-## Hi, I'm Ayo!
+# Hi, I'm Ayo!
 
 - Website: [ayco.io](https://ayco.io)
 - Blog: [ayos.blog](https://ayos.blog)
