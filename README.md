@@ -12,7 +12,7 @@ Since I started around August 2022, my open-source efforts now include:
 1. [Cozy](https://github.com/ayoayco/cozy) - Privacy-respecting, content-focused app that helps users focus on the information they need
 1. [Astro Reactive](https://github.com/astro-reactive) - Exploration of simpler development patterns for complex use cases
 1. [Astro Resume](https://sr.ht/~ayoayco/astro-resume/) - Utilities to send primitive & complex values from the server to the client script with types preserved. This is a direct result of efforts in Astro Reactive
-1. [Elk contributions](https://elk.zone) - Since I started working with the Elk team, I've implemented the following Mastodon APIs to the client application:
+1. [Elk contributions](https://elk.zone) - Love working with Elk, and have implemented the following Mastodon APIs to the client application:
     1. Preview Cards
     1. Filters API
     1. Media visibility configurations
