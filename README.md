@@ -3,6 +3,8 @@
 - Website: [ayco.io](https://ayco.io)
 - Blog: [ayos.blog](https://ayos.blog)
 - Social: [ayco.io/@ayo](https://ayco.io/@ayo)
+- Support: [buy me a coffee](https://ko-fi.com/ayoayco)
+- Sponsor: [gh sponsors]](https://github.com/sponsors/ayoayco)
 
 ## My open-source journey (so far)
 
