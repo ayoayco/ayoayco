@@ -4,8 +4,8 @@
 - Email: [ayo@ayco.io](mailto:ayo@ayco.io)
 - Social: [@ayo@ayco.io](https://ayco.io/@ayo)
 - Blog: [ayos.blog](https://ayos.blog)
-
-## Recognitions and Features
+  
+### Recognitions and Features
 The following are some awards and news features I was involved in:
 - 📰 **Manila Bulletin (Dec. 20, 2021):** [Health Impact Hackathon](https://mb.com.ph/2021/10/20/health-impact-hackathon-deep-dives-into-how-to-deliver-crucial-health-information-to-internet-challenged-communities/)
   - worked on the hackathon platform as a consultant for Impact Hub Manila 
@@ -18,11 +18,9 @@ The following are some awards and news features I was involved in:
 - 📰 **ABS-CBN News (Jun. 30, 2014):** [Project NOAH identifies landslide-prone provinces](https://www.youtube.com/watch?v=LKrV6vtGZEA&ab_channel=ABS-CBNNews)
   - came in as a senior frontend engineer, as well as provide support during operations
 
-## My open-source journey (so far)
+### Open Source & Sponsorships
 
-I am an open-source newbie.
-
-Since I started around August 2022, my open-source efforts now include:
+I am an open source newbie. Since I started around August 2022, my open-source efforts now include:
 1. [Cozy](https://github.com/ayoayco/cozy) - Privacy-respecting, content-focused app that helps users focus on the information they need
 1. [Astro Reactive](https://github.com/astro-reactive) - Exploration of simpler development patterns for complex use cases
 1. [Astro Resume](https://sr.ht/~ayoayco/astro-resume/) - Utilities to send primitive & complex values from the server to the client script with types preserved. This is a direct result of efforts in Astro Reactive
@@ -31,17 +29,10 @@ Since I started around August 2022, my open-source efforts now include:
     1. Filters API
     1. Media visibility configurations
 
-[*Your support goes a long way for me to do more...*](https://github.com/sponsors/ayoayco)
-
-## Sponsors
-<p align="center">
-    <br />
-    <a href="https://iodigital.com"><img src="./assets/logos/iO.jpeg" alt="iO Consultancy Logo" width="150" /></a>
-    <br />
-    Special thanks to <a href="https://iodigital.com">iO Consultancy</a><br />for sponsoring my open source contributions
-</p>
-
-
+| Sponsor | Support
+|---|---|
+| <p align="center"><a href="https://iodigital.com"><img src="./assets/logos/iO.jpeg" alt="iO Consultancy Logo" width="70" /><br>iO Consultancy</a></p> | Thanks for sponsoring hours I spend on my open source contributions!
+| <p align="center"><a href="https://ko-fi.com/home/coffeeshop?txid=e8f89e5e-fb7e-45db-a3c5-dc8fb0c06ff4&mode=r&ReturnUrl=/Manage/SupportReceived"><img src="https://ko-fi.com/img/anon11.png?v=10" alt="surrealnative ko-fi photo" width="70" /><br>surrealnative</a></p> | Thanks for the one-time support!
 
 <!--
 
