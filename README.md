@@ -4,21 +4,8 @@
 - Email: [ayo@ayco.io](mailto:ayo@ayco.io)
 - Social: [@ayo@ayco.io](https://ayco.io/@ayo)
 - Blog: [ayos.blog](https://ayos.blog)
-  
-### Recognitions and Features
-The following are some awards and news features I was involved in:
-- 📰 **Manila Bulletin (Dec. 20, 2021):** [Health Impact Hackathon](https://mb.com.ph/2021/10/20/health-impact-hackathon-deep-dives-into-how-to-deliver-crucial-health-information-to-internet-challenged-communities/)
-  - worked on the hackathon platform as a consultant for Impact Hub Manila 
-- 🏆 **Global [Innovation Winner](https://blog.angular.io/hack-for-good-6b500f1946a3#36f0) (Oct. 2019)** for the Hack for Good with Angular and NativeScript 2019
-  - came up with the idea and the software architecture, then lead the development
-- 🏆 **Innovation Award, HIRAYA, Infor Sinagtala Awards 2018**
-  - was recognized for efforts that streamlined feature delivery and secured a big contract
-- 📰 **ABS-CBN News (Dec. 11, 2015):** [Project NOAH launches WebSAFE](https://news.abs-cbn.com/nation/12/11/15/project-noah-launches-websafe)
-  - managed the project, lead the developers and researchers, as well as align with stakeholders
-- 📰 **ABS-CBN News (Jun. 30, 2014):** [Project NOAH identifies landslide-prone provinces](https://www.youtube.com/watch?v=LKrV6vtGZEA&ab_channel=ABS-CBNNews)
-  - came in as a senior frontend engineer, as well as provide support during operations
 
-### Open Source & Sponsorships
+## Open Source & Sponsorships
 
 I am an open source newbie and am thankful for every and any help I get along the way. My current interests are focused on bringing the web to a more open, user-first, experience. Since I started around August 2022, my efforts now include:
 1. [Cozy](https://github.com/ayoayco/cozy) - Privacy-respecting, content-focused app that helps users focus on the information they need
@@ -34,23 +21,15 @@ I am an open source newbie and am thankful for every and any help I get along th
 | <p align="center"><a href="https://iodigital.com"><img src="./assets/logos/iO.jpeg" alt="iO Consultancy Logo" width="70" /><br>iO Consultancy</a></p> | Thanks for sponsoring hours I spend on my open source contributions!
 | <p align="center"><a href="https://ko-fi.com/home/coffeeshop?txid=e8f89e5e-fb7e-45db-a3c5-dc8fb0c06ff4&mode=r&ReturnUrl=/Manage/SupportReceived"><img src="https://ko-fi.com/img/anon11.png?v=10" alt="surrealnative ko-fi photo" width="70" /><br>surrealnative</a></p> | Thanks for the one-time support!
 
-<!--
-
-## Where to find me
-
-- Web: [ayo.ayco.io](https://ayo.ayco.io)
-- Email: <a href="mailto:ayo@ayco.io">ayo@ayco.io</a>
-- Fediverse: [@ayo@ayco.io](https://ayco.io/@ayo)
-- LinkedIn: [ayco.io/linkedin](https://ayco.io/linkedin)
-
-| <a href="https://github.com/ayoayco/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoayco&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ayo Ayco's github stats" /></a> | <a href="https://github.com/ayoayco"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoayco&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
->  He has contributed software development expertise to UPLB, DOST, Infor, and various government-funded projects such as University of the Philippines’ National Operational Assessment of Hazards and Ateneo’s Cloud-Based Intelligent Total Analysis System.
->
-> He is a passionate learner and is quite fond of explaining how things work.
-> 
-> Now he works on ERP software created for the Cloud.
-
-[![COVER](assets/cover-with-action.png)](https://ayco.io)
--->
+## Recognitions and Features
+The following are some awards and news features I was involved in:
+- 📰 **Manila Bulletin (Dec. 20, 2021):** [Health Impact Hackathon](https://mb.com.ph/2021/10/20/health-impact-hackathon-deep-dives-into-how-to-deliver-crucial-health-information-to-internet-challenged-communities/)
+  - worked on the hackathon platform as a consultant for Impact Hub Manila 
+- 🏆 **Global [Innovation Winner](https://blog.angular.io/hack-for-good-6b500f1946a3#36f0) (Oct. 2019)** for the Hack for Good with Angular and NativeScript 2019
+  - came up with the idea and the software architecture, then lead the development
+- 🏆 **Innovation Award, HIRAYA, Infor Sinagtala Awards 2018**
+  - was recognized for efforts that streamlined feature delivery and secured a big contract
+- 📰 **ABS-CBN News (Dec. 11, 2015):** [Project NOAH launches WebSAFE](https://news.abs-cbn.com/nation/12/11/15/project-noah-launches-websafe)
+  - managed the project, lead the developers and researchers, as well as align with stakeholders
+- 📰 **ABS-CBN News (Jun. 30, 2014):** [Project NOAH identifies landslide-prone provinces](https://www.youtube.com/watch?v=LKrV6vtGZEA&ab_channel=ABS-CBNNews)
+  - came in as a senior frontend engineer, as well as provide support during operations
