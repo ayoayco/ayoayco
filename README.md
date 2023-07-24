@@ -20,7 +20,7 @@ The following are some awards and news features I was involved in:
 
 ### Open Source & Sponsorships
 
-I am an open source newbie. Since I started around August 2022, my open-source efforts now include:
+I am an open source newbie and am thankful for every and any help I get along the way. My current interests are focused on bringing the web to a more open, user-first, experience. Since I started around August 2022, my efforts now include:
 1. [Cozy](https://github.com/ayoayco/cozy) - Privacy-respecting, content-focused app that helps users focus on the information they need
 1. [Astro Reactive](https://github.com/astro-reactive) - Exploration of simpler development patterns for complex use cases
 1. [Astro Resume](https://sr.ht/~ayoayco/astro-resume/) - Utilities to send primitive & complex values from the server to the client script with types preserved. This is a direct result of efforts in Astro Reactive
