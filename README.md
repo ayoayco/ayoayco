@@ -5,7 +5,7 @@
 - Social: [@ayo@ayco.io](https://ayco.io/@ayo)
 - Blog: [ayos.blog](https://ayos.blog)
 
-## Open Source & Sponsorships
+## Open Source
 
 I am an open source newbie and am thankful for every and any help I get along the way. My current interests are focused on bringing the web to a more open, user-first, experience. Since I started around August 2022, my efforts now include:
 1. [Cozy](https://github.com/ayoayco/cozy) - Privacy-respecting, content-focused app that helps users focus on the information they need
