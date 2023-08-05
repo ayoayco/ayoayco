@@ -4,6 +4,7 @@
 - Email: [ayo@ayco.io](mailto:ayo@ayco.io)
 - Social: [@ayo@ayco.io](https://ayco.io/@ayo)
 - Blog: [ayos.blog](https://ayos.blog)
+- RSS feeds: [short posts](https://social.ayco.io/@ayo.rss), [long posts](https://ayos.blog/feed.xml)
 
 ## Open Source Projects
 
