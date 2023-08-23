@@ -1,5 +1,4 @@
 <!-- home website is enough
-# Hi, I'm Ayo!
 
 - Website: [ayo.ayco.io](https://ayco.io)
 - Email: [ayo@ayco.io](mailto:ayo@ayco.io)
@@ -8,9 +7,11 @@
 - RSS feeds: [short posts](https://social.ayco.io/@ayo.rss), [long posts](https://ayos.blog/feed.xml)
 -->
 
-## Open Source Projects
+# Hi, I'm Ayo!
 
-I am an open source newbie. Since I started around August 2022, my efforts now include:
+I am an [experienced web developer](https://ayo.ayco.io), but still a newbie in open source and figuring things out.
+
+Since I started around August 2022, my efforts now include:
 1. [Cozy](https://github.com/ayoayco/cozy) - Privacy-respecting, content-focused app that helps users get to information they need
 1. [Astro Reactive](https://github.com/astro-reactive) - Exploration of simpler development patterns for complex use cases
 1. [Astro Resume](https://sr.ht/~ayoayco/astro-resume/) - Utilities to send primitive & complex values from the server to the client script with types preserved. This is a direct result of efforts in Astro Reactive
