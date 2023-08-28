@@ -7,8 +7,8 @@
 - RSS feeds: [short posts](https://social.ayco.io/@ayo.rss), [long posts](https://ayos.blog/feed.xml)
 -->
 
-# Hi, I'm Ayo!
-
+Hi, I'm Ayo!
+---
 I am an [experienced web developer](https://ayo.ayco.io), but still a newbie in open source and figuring things out.
 
 Since I started around August 2022, my efforts now include:
@@ -20,7 +20,7 @@ Since I started around August 2022, my efforts now include:
     1. Filters API
     1. Media visibility configurations
 
-## Recognitions and Features
+### Recognitions and Features
 The following are some awards and news features I was involved in:
 - 📰 **Manila Bulletin (Dec. 20, 2021):** [Health Impact Hackathon](https://mb.com.ph/2021/10/20/health-impact-hackathon-deep-dives-into-how-to-deliver-crucial-health-information-to-internet-challenged-communities/)
   - worked on the hackathon platform as a consultant for Impact Hub Manila 
