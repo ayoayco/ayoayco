@@ -9,7 +9,7 @@
 
 Hi, I'm Ayo!
 ---
-Since I started to more actively contribute around August 2022, my open-source efforts now include:
+My open-source efforts now include:
 1. [Cozy](https://github.com/ayoayco/cozy) - Privacy-respecting, content-focused app that helps users get to information they need
 1. [Astro Reactive](https://github.com/astro-reactive) - Exploration of simpler development patterns for complex use cases
 1. [Astro Resume](https://sr.ht/~ayoayco/astro-resume/) - Utilities to send primitive & complex values from the server to the client script with types preserved. This is a direct result of efforts in Astro Reactive
