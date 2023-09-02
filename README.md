@@ -5,18 +5,21 @@
 - Social: [@ayo@ayco.io](https://ayco.io/@ayo)
 - Blog: [ayos.blog](https://ayos.blog)
 - RSS feeds: [short posts](https://social.ayco.io/@ayo.rss), [long posts](https://ayos.blog/feed.xml)
--->
+
+    1. Preview Cards
+    1. Filters API
+    1. Media visibility configurations -->
 
 Hi, I'm Ayo!
 ---
 My open-source efforts now include:
-1. [Cozy](https://github.com/ayoayco/cozy) - Privacy-respecting, content-focused app that helps users get to information they need
-1. [Astro Reactive](https://github.com/astro-reactive) - Exploration of simpler development patterns for complex use cases
-1. [Astro Resume](https://sr.ht/~ayoayco/astro-resume/) - Utilities to send primitive & complex values from the server to the client script with types preserved. This is a direct result of efforts in Astro Reactive
-1. [Elk contributions](https://elk.zone) - Love working with Elk, and have implemented the following Mastodon APIs to the client application:
-    1. Preview Cards
-    1. Filters API
-    1. Media visibility configurations
+| Project | Description |
+| --- | --- |
+| [Cozy](https://github.com/ayoayco/cozy) | Privacy-respecting, content-focused app that helps users get to information they need |
+| [Elk](elk.md) | Love working with Elk, and have implemented new features and improvements
+| [Astro Resume](https://sr.ht/~ayoayco/astro-resume/) | Utilities to send primitive & complex values from the server to the client script with types preserved
+| [Astro Reactive](https://github.com/astro-reactive) | Exploration of simpler development patterns for complex use cases |
+
 
 ### Recognitions and Features
 The following are some awards and news features I was involved in:
