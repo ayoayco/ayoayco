@@ -15,10 +15,11 @@ Hi, I'm Ayo!
 My open-source efforts now include:
 | Project | Description |
 | --- | --- |
-| [Cozy](https://github.com/ayoayco/cozy) | Privacy-respecting, content-focused app that helps users get to information they need |
+| [Cozy](https://ayco.io/gh/cozy) | Privacy-respecting, content-focused app that helps users get to information they need |
 | [Elk](elk.md) | Love working with Elk, and have implemented new features and improvements
-| [Astro Resume](https://sr.ht/~ayoayco/astro-resume/) | Utilities to send primitive & complex values from the server to the client script with types preserved
+| [Astro Resume](https://ayco.io/sh/astro-resume/) | Utilities to send primitive & complex values from the server to the client script with types preserved
 | [Astro Reactive](https://github.com/astro-reactive) | Exploration of simpler development patterns for complex use cases |
+| [Web Component Base](https://ayco.io/sh/web-component-base/) | Minimal JavaScript base class for creating custom elements easily |
 
 
 ### Recognitions and Features
