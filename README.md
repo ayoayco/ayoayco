@@ -12,6 +12,8 @@
 
 Hi, I'm Ayo!
 ---
+I've started working on repositories hosted at my [SourceHut account](https://ayco.io/sh/) too.
+
 My open-source efforts now include:
 | Project | Description |
 | --- | --- |
