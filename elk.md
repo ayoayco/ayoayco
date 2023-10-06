@@ -8,5 +8,5 @@ From its early closed-alpha days, I have enjoyed contributing to the project
 1. Preview card icon types [#462](https://github.com/elk-zone/elk/pull/462)
 1. Totally hide strict filters [#948](https://github.com/elk-zone/elk/pull/948)
 1. Mobile zen mode [#969](https://github.com/elk-zone/elk/pull/969)
-1. Respect Media Display preferences [#2065](https://github.com/elk-zone/elk/pull/2065)
+1. Media Display preferences [#2065](https://github.com/elk-zone/elk/pull/2065)
 1. Filter notifications by type [ #2371](https://github.com/elk-zone/elk/pull/2371)
