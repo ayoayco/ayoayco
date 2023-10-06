@@ -18,8 +18,8 @@ My open-source efforts now include:
 | Project | Description |
 | --- | --- |
 | [Cozy](https://ayco.io/gh/cozy) | Privacy-respecting, content-focused app that helps users get to information they need |
-| [Elk](elk.md) | Love working with Elk, and have implemented new features and improvements
-| [Astro Resume](https://www.npmjs.com/package/@ayco/astro-resume) | Utilities to send primitive & complex values from the server to the client script with types preserved
+| [Elk](https://github.com/elk-zone/elk) | Nimble web client for Mastodon; see [features and improvements](elk.md) I worked on |
+| [Astro Resume](https://ayco.io/sh/astro-resume/) | Utilities for sending primitive & complex values from the server to the client script with types preserved |
 | [Astro Reactive](https://github.com/astro-reactive) | Exploration of simpler development patterns for complex use cases |
 | [Web Component Base](https://www.npmjs.com/package/web-component-base) | Minimal JavaScript base class for creating custom elements easily |
 
