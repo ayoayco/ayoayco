@@ -17,6 +17,7 @@ I've started working on repositories hosted at my [SourceHut account](https://ay
 My open-source efforts now include:
 | Project | Description |
 | --- | --- |
+| [McFly](https://ayco.io/gh/mcfly) | The web framework that grows with you. |
 | [Cozy](https://ayco.io/gh/cozy) | Privacy-respecting, content-focused app that helps users get to information they need |
 | [Elk](https://github.com/elk-zone/elk) | Nimble web client for Mastodon; see [features and improvements](elk.md) I worked on |
 | [Astro Resume](https://ayco.io/sh/astro-resume/) | Utilities for sending primitive & complex values from the server to the client script with types preserved |
