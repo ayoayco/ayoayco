@@ -17,11 +17,11 @@ I've started working on repositories hosted at my [SourceHut account](https://ay
 My open-source efforts now include:
 | Project | Description |
 | --- | --- |
-| [McFly](https://ayco.io/gh/mcfly) | The web framework that grows with you. |
-| [Cozy](https://ayco.io/gh/cozy) | Privacy-respecting, content-focused app that helps users get to information they need |
-| [Elk](https://github.com/elk-zone/elk) | Nimble web client for Mastodon; see [features and improvements](elk.md) I worked on |
-| [Astro Resume](https://ayco.io/sh/astro-resume/) | Utilities for sending primitive & complex values from the server to the client script with types preserved |
-| [Astro Reactive](https://github.com/astro-reactive) | Exploration of simpler development patterns for complex use cases |
+| [McFly](https://ayco.io/gh/mcfly#readme) | The web framework that grows with you. |
+| [Cozy](https://ayco.io/gh/cozy#readme) | Privacy-respecting, content-focused app that helps users get to information they need |
+| [Elk](https://github.com/elk-zone/elk#readme) | Nimble web client for Mastodon; see [features and improvements](elk.md) I worked on |
+| [Astro Resume](https://ayco.io/sh/astro-resume#readme) | Utilities for sending primitive & complex values from the server to the client script with types preserved |
+| [Astro Reactive](https://github.com/astro-reactive/astro-reactive#readme) | Exploration of simpler development patterns for complex use cases |
 | [Web Component Base](https://www.npmjs.com/package/web-component-base) | Minimal JavaScript base class for creating custom elements easily |
 
 
