@@ -14,7 +14,6 @@ Hi, I'm Ayo!
 ---
 I've started working on repositories hosted at my [SourceHut account](https://ayco.io/sh/) too.
 
-My open-source efforts now include:
 | Project | Description |
 | --- | --- |
 | [McFly](https://ayco.io/gh/mcfly#readme) | A no-framework framework with the same engine powering [Nuxt](https://nuxt.com) |
