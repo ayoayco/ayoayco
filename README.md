@@ -1,18 +1,18 @@
 <!-- home website is enough
-
 - Website: [ayo.ayco.io](https://ayco.io)
 - Email: [ayo@ayco.io](mailto:ayo@ayco.io)
 - Social: [@ayo@ayco.io](https://ayco.io/@ayo)
 - Blog: [ayos.blog](https://ayos.blog)
 - RSS feeds: [short posts](https://social.ayco.io/@ayo.rss), [long posts](https://ayos.blog/feed.xml)
 
-    1. Preview Cards
-    1. Filters API
-    1. Media visibility configurations -->
+> [!TIP]
+> **Need help or want to collaborate?** Reach me at my Discord
+-->
 
 Hi, I'm Ayo!
 ---
-I've started working on repositories hosted at my [SourceHut account](https://ayco.io/sh/) too.
+
+The following are some fun side projects I am involved in. I've started working on repositories hosted at my [SourceHut account](https://ayco.io/sh/) too.
 
 | Project | Description |
 | --- | --- |
