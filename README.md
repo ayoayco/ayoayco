@@ -13,7 +13,7 @@
 | [Astro Reactive](https://github.com/astro-reactive/astro-reactive#readme) | Exploration of simpler development patterns for complex use cases |
 | [Web Component Base](https://www.npmjs.com/package/web-component-base) | Minimal JavaScript base class for creating custom elements easily |
 
-<!-- ## Recognitions and Features
+## Recognitions and Features
 - 📰 **Manila Bulletin (Dec. 20, 2021):** [Health Impact Hackathon](https://mb.com.ph/2021/10/20/health-impact-hackathon-deep-dives-into-how-to-deliver-crucial-health-information-to-internet-challenged-communities/)
   - worked on the hackathon platform as a consultant for Impact Hub Manila 
 - 🏆 **Global [Innovation Winner](https://blog.angular.io/hack-for-good-6b500f1946a3#36f0) (Oct. 2019)** for the Hack for Good with Angular and NativeScript 2019
@@ -23,7 +23,7 @@
 - 📰 **ABS-CBN News (Dec. 11, 2015):** [Project NOAH launches WebSAFE](https://news.abs-cbn.com/nation/12/11/15/project-noah-launches-websafe)
   - managed the project, lead the developers and researchers, as well as align with stakeholders
 - 📰 **ABS-CBN News (Jun. 30, 2014):** [Project NOAH identifies landslide-prone provinces](https://www.youtube.com/watch?v=LKrV6vtGZEA&ab_channel=ABS-CBNNews)
-  - came in as a senior frontend engineer, as well as provide support during operations -->
+  - came in as a senior frontend engineer, as well as provide support during operations
 
 <!-- funds pending reconsideration
 ## Thank you!
