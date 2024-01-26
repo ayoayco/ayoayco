@@ -6,13 +6,13 @@
 🏡 [ayo.ayco.io](https://ayco.io) · 📰 [ayos.blog](https://ayos.blog) · 🛜 RSS feeds: [short posts](https://social.ayco.io/@ayo.rss), [long posts](https://ayos.blog/feed.xml) · ✉️  [ayo@ayco.io](mailto:ayo@ayco.io) · 💬 [@ayo@ayco.io](https://ayco.io/@ayo)
 | Recent Projects | Description |
 | --- | --- |
-| [Scalable Shoe Shop](https://ayco.io/gh/shoe-shop#readme) | A demonstration of using [Astro](https://astro.build) as shell for a micro-frontends architecture |
 | [McFly](https://ayco.io/gh/mcfly#readme) | A no-framework framework with the same engine powering [Nuxt](https://nuxt.com) |
 | [Cozy](https://ayco.io/gh/cozy#readme) | Privacy-respecting, content-focused app that helps users get to information they need |
 | [Elk](https://github.com/elk-zone/elk#readme) | Nimble web client for Mastodon; see [features and improvements](elk.md) I worked on |
 | [Astro Resume](https://www.npmjs.com/package/@ayco/astro-resume) | Utilities for sending primitive & complex values from the server to the client script with types preserved |
 | [Astro Reactive](https://github.com/astro-reactive/astro-reactive#readme) | Exploration of simpler development patterns for complex use cases |
 | [Web Component Base](https://www.npmjs.com/package/web-component-base) | Minimal JavaScript base class for creating custom elements easily |
+| [Scalable Shoe Shop](https://ayco.io/gh/shoe-shop#readme) | A demonstration of using [Astro](https://astro.build) as shell for a micro-frontends architecture |
 
 ## Recognitions and Features
 - 📰 **Manila Bulletin (Dec. 20, 2021):** [Health Impact Hackathon](https://mb.com.ph/2021/10/20/health-impact-hackathon-deep-dives-into-how-to-deliver-crucial-health-information-to-internet-challenged-communities/)
