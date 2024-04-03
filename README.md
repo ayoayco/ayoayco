@@ -4,7 +4,7 @@
 # Hi, I'm Ayo!
 
 🏡 [ayo.ayco.io](https://ayco.io) · 📰 [ayos.blog](https://ayos.blog) · 🛜 RSS feeds: [short posts](https://social.ayco.io/@ayo.rss), [long posts](https://ayos.blog/feed.xml) · ✉️  [ayo@ayco.io](mailto:ayo@ayco.io) · 💬 [@ayo@ayco.io](https://ayco.io/@ayo)
-| Recent Projects | Description |
+| Recent Contributions | Description |
 | --- | --- |
 | [McFly](https://ayco.io/gh/mcfly#readme) | A no-framework framework with the same engine powering [Nuxt](https://nuxt.com) |
 | [Cozy](https://ayco.io/gh/cozy#readme) | Privacy-respecting, content-focused app that helps users get to information they need |
