@@ -3,6 +3,9 @@
 -->
 # Hi, I'm Ayo!
 
+> [!NOTE]
+> Recently I have been more active in [SourceHut](https://sr.ht) for projects related to my [personal site](https://sr.ht/~ayoayco/personal-site).
+
 🏡 [ayo.ayco.io](https://ayco.io) · 📰 [ayos.blog](https://ayos.blog) · 🛜 RSS feeds: [short posts](https://social.ayco.io/@ayo.rss), [long posts](https://ayos.blog/feed.xml) · ✉️  [ayo@ayco.io](mailto:ayo@ayco.io) · 💬 [@ayo@ayco.io](https://ayco.io/@ayo)
 | Recent Contributions | Description |
 | --- | --- |
