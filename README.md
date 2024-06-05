@@ -12,9 +12,6 @@
 - Social: [@ayo@ayco.io](https://social.ayco.io/@ayo)
 - Others: https://ayo.so/cials
 
-<!-- home website is enough
-
-# Hi, I'm Ayo!
 
 | Recent Contributions | Description |
 | --- | --- |
