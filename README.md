@@ -26,7 +26,7 @@
 ## Recognitions and Features
 - 📰 **Manila Bulletin (Dec. 20, 2021):** [Health Impact Hackathon](https://mb.com.ph/2021/10/20/health-impact-hackathon-deep-dives-into-how-to-deliver-crucial-health-information-to-internet-challenged-communities/)
   - worked on the hackathon platform as a consultant for Impact Hub Manila 
-- 🏆 **Global [Innovation Winner](https://blog.angular.io/hack-for-good-6b500f1946a3#36f0) (Oct. 2019)** for the Hack for Good with Angular and NativeScript 2019
+- 🏆 **Tech4Good: Global [Innovation Winner](https://blog.angular.dev/hack-for-good-6b500f1946a3) (Oct. 2019)** for the Hack for Good with Angular and NativeScript 2019
   - came up with the idea and the software architecture, then lead the development
 - 🏆 **Innovation Award, HIRAYA, Infor Sinagtala Awards 2018**
   - was recognized for efforts that streamlined feature delivery and secured a big contract
