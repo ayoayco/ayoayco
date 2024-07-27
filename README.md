@@ -1,3 +1,4 @@
+<!--
 > [!Note]
 > Recently I have been more active in [SourceHut](https://sr.ht) for projects related to my [personal site](https://sr.ht/~ayoayco/personal-site).
 
@@ -11,7 +12,7 @@
 - Mail: [ayo@ayco.io](mailto:ayo@ayco.io)
 - Social: [@ayo@ayco.io](https://social.ayco.io/@ayo)
 - Others: https://ayo.so/cials
-
+-->
 
 | Recent Contributions | Description |
 | --- | --- |
@@ -23,7 +24,7 @@
 | [Web Component Base](https://www.npmjs.com/package/web-component-base) | Minimal JavaScript base class for creating custom elements easily |
 | [Scalable Shoe Shop](https://ayco.io/gh/shoe-shop#readme) | A demonstration of using [Astro](https://astro.build) as shell for a micro-frontends architecture |
 
-## Recognitions and Features
+## Recognitions and News
 - 📰 **Manila Bulletin (Dec. 20, 2021):** [Health Impact Hackathon](https://mb.com.ph/2021/10/20/health-impact-hackathon-deep-dives-into-how-to-deliver-crucial-health-information-to-internet-challenged-communities/)
   - worked on the hackathon platform as a consultant for Impact Hub Manila 
 - 🏆 **BayanihanMaps: Global [Innovation Winner](https://blog.angular.dev/hack-for-good-6b500f1946a3) (Oct. 2019)** for the Hack for Good with Angular and NativeScript 2019
