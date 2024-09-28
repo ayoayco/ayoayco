@@ -16,7 +16,7 @@
 
 | Recent Contributions | Description |
 | --- | --- |
-| [McFly](https://ayco.io/gh/mcfly#readme) | A no-framework framework with the same engine powering [Nuxt](https://nuxt.com) |
+| [McFly](https://ayco.io/gh/mcfly#readme) | A no-framework meta-framework for Web Components |
 | [Cozy](https://ayco.io/gh/cozy#readme) | Privacy-respecting, content-focused app that helps users get to information they need |
 | [Elk](https://github.com/elk-zone/elk#readme) | Nimble web client for Mastodon; see [features and improvements](elk.md) I worked on |
 | [Astro Resume](https://www.npmjs.com/package/@ayco/astro-resume) | Utilities for sending primitive & complex values from the server to the client script with types preserved |
