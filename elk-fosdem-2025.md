@@ -2,6 +2,7 @@
 
 ## Application
 - Type: 25 minutes
+- Session: Social Web
 - Topic: Clients for ActivityPub (Mastodon)
 - Working Title: Elk: A new chapter
 
