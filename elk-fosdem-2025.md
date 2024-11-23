@@ -9,7 +9,7 @@
 
 ## Abstract
 
-Elk is a nimble Mastodon client application with great attention to user experience, boasting unique features such as being an installable Progressive Web App (PWA), support for code blocks with syntax highlighting, and markdown formatting.
+Elk is a nimble Mastodon client with great attention to user experience, boasting unique features such as being an installable Progressive Web App (PWA), support for code blocks with syntax highlighting, and markdown formatting.
 
 Started by core maintainers behind popular developer tooling in the Vue/Vite/Nuxt ecosystem in 2022, it attracted hundreds of contributors and resulted to the creation of new libraries now widely used in other projects.
 
