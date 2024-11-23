@@ -13,4 +13,4 @@ Elk is a nimble client for Mastodon with great attention to user experience, boa
 
 Started by core maintainers behind popular developer tooling in the Vue/Vite/Nuxt ecosystem in 2022, it attracted hundreds of contributors and resulted to the creation of new libraries now widely used in other projects.
 
-In this talk, I will give a brief history of Elk development from the perspective of a contributor who has never wrote a vue component (before Elk), what are the key strengths of the technology under the hood, and a look forward to the future of the project.
+In this talk, I will give a brief history of Elk development from the perspective of a contributor who has never wrote a Vue component (before Elk), what are the key strengths of the technology under the hood, and a look forward to the future of the project.
