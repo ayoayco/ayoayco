@@ -1,9 +1,9 @@
 # Elk talk proposal - FOSDEM 2025
 
 ## Application
-Type: 25 minutes
-Topic: Clients for ActivityPub (Mastodon)
-Working Title: Elk: A new chapter
+- Type: 25 minutes
+- Topic: Clients for ActivityPub (Mastodon)
+- Working Title: Elk: A new chapter
 
 
 ## Abstract
