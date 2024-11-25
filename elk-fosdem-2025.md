@@ -4,7 +4,7 @@
 - Type: 25 minutes
 - Session: Social Web
 - Topic: Clients for ActivityPub (Mastodon)
-- Working Title: Elk: A new chapter
+- Working Title: Elk: A Nimble Client for Mastodon
 
 
 ## Abstract
