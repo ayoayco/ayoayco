@@ -1,7 +1,5 @@
 ## Hi, I'm Ayo
 
-I love reading and writing code, but I love seeing people succeed more. That's it.
-
 ### contact info
 - 🏡 home: [ayo.ayco.io](https://ayo.ayco.io)
 - ✉️ mail: ayo@ayco.io 
