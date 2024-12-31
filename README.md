@@ -12,7 +12,6 @@
 - Mail: [ayo@ayco.io](mailto:ayo@ayco.io)
 - Social: [@ayo@ayco.io](https://social.ayco.io/@ayo)
 - Others: https://ayo.so/cials
--->
 
 | Recent Contributions | Description |
 | --- | --- |
@@ -34,7 +33,10 @@
 - 📰 **ABS-CBN News (Dec. 11, 2015):** [Project NOAH launches WebSAFE](https://news.abs-cbn.com/nation/12/11/15/project-noah-launches-websafe)
   - managed the project, lead the developers and researchers, as well as align with stakeholders
 - 📰 **ABS-CBN News (Jun. 30, 2014):** [Project NOAH identifies landslide-prone provinces](https://www.youtube.com/watch?v=LKrV6vtGZEA&ab_channel=ABS-CBNNews)
-  - came in as a senior frontend engineer, as well as provide support during operations
+  - came in as a senior frontend engineer, as well as provide support during operations 
+-->
+
+[cozy.pub](https://cozy.pub) • [mcfly](https://mcfly.js.org) • [webcomponent.io](https://webcomponent.io) • [astro-sw](https://ayco.io/n/@ayco/astro-sw) • [astro-resume](https://ayco.io/n/@ayco/astro-resume) • [astro-reactive](https://astro-reactive.js.org)
 
 <!-- funds pending reconsideration
 ## Thank you!
