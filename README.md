@@ -4,6 +4,5 @@
 🐘 fedi: [@ayo@ayco.io](https://ayco.io/@ayo)<br>
 🦋 bsky: [@ayco.io](https://bsky.app/profile/ayco.io)
 
-🛠️ Building: [cozy.pub](https://cozy.pub) • [mcfly.js.org](https://mcfly.js.org) • [webcomponent.io](https://webcomponent.io)
-
-🤝 Belping: [elk](https://elk.zone) • [web tools](https://webtoo.ls) • [vitest fedi](https://elk.zone/m.webtoo.ls/@vitest)
+🛠️ building: [cozy.pub](https://cozy.pub) • [mcfly.js.org](https://mcfly.js.org) • [webcomponent.io](https://webcomponent.io)
+🤝 helping: [elk.zone](https://elk.zone) • [webtoo.ls](https://m.webtoo.ls) • [@vitest@webtoo.ls](https://elk.zone/m.webtoo.ls/@vitest)
