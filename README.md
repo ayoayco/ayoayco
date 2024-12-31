@@ -46,7 +46,7 @@
 [cozy.pub](https://cozy.pub) • [mcfly](https://mcfly.js.org) • [webcomponent.io](https://webcomponent.io) • [astro-sw](https://ayco.io/n/@ayco/astro-sw) • [astro-resume](https://ayco.io/n/@ayco/astro-resume) • [astro-reactive](https://astro-reactive.js.org)
 
 ## helping out
-[elk](https://elk.zone) • [vitest fedi](https://elk.zone/m.webtoo.ls/vitest)
+[elk](https://elk.zone) • [vitest fedi](https://elk.zone/m.webtoo.ls/@vitest)
 
 <!-- funds pending reconsideration
 ## Thank you!
