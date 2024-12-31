@@ -37,7 +37,7 @@
 -->
 
 ## contact
-🏡 home: [ayco.io](https://ayco.io) <br>
+🏡 home: [ayo.ayco.io](https://ayo.ayco.io) <br>
 ✉️ mail: ayo@ayco.io <br>
 🐘 fedi: [@ayo@ayco.io](https://ayco.io/@ayo) <br>
 🦋 bsky: [@ayco.io](https://bsky.app/profile/ayco.io) <br>
