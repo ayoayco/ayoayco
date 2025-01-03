@@ -13,7 +13,7 @@ You can learn more about my work or reach me via the following:<br><br>
 ✉️ mail: ayo@ayco.io<br>
 🐘 fedi: [@ayo@ayco.io](https://ayco.io/@ayo)<br>
 🦋 bsky: [@ayco.io](https://bsky.app/profile/ayco.io)<br>
-💬 discord: ayoayco
+💬 discord: ayoayco <br>
 💬 signal: ayo.88
 
 
