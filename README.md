@@ -6,21 +6,10 @@ I work on several hobby projects such as [cozy.pub](https://cozy.pub), [mcfly.js
 
 I also try to help out in various ways on projects like [elk.zone](https://elk.zone), [webtoo.ls](https://m.webtoo.ls/public/local), and [vitest](https://elk.zone/m.webtoo.ls/@vitest).
 
-**Sites**<br>
+**Contact info**<br>
 🏡 home: [ayo.ayco.io](https://ayo.ayco.io)<br>
 ✍️ blog: [ayos.blog](https://ayos.blog)<br>
-
-
-**Socials**<br>
-👀 Personal: [@ayo@ayco.io](https://social.ayco.io/@ayo)<br>
-🛠️ FOSS projects: [@ayo@fosstodon.org](https://fosstodon.org/@ayo)<br>
-🤝 Web community: [@ayo@webtoo.ls](https://m.webtoo.ls/@ayo)<br>
-🦋 Bsky: [@ayco.io](https://bsky.app/profile/ayco.io)
-
-**Mail & Chat**<br>
-✉️ mail: ayo@ayco.io<br>
-💬 discord: ayoayco <br>
-💬 signal: ayo.88
-
-
-
+👀 Mastodon: [@ayo@ayco.io](https://social.ayco.io/@ayo)<br>
+✉️  mail: ayo@ayco.io<br>
+💬 discord: ayoayco<br>
+💬 signal: ayo.88<br>
